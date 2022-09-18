@@ -1,0 +1,13 @@
+{
+  "name": "stonetocopperore",
+  "author": "VDLIcat3c",
+  "description": "copper can be crafted by stone.",
+  "version": "1",
+  "license": "",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "gameVersion": "1.0",
+  "updateUrl": "",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
